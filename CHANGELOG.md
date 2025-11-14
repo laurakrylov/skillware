@@ -12,3 +12,4 @@
 - docs: add a note about the defaults
 - chore: link the usage section
 - docs: link the usage section
+- docs: link the usage section
