@@ -38,3 +38,4 @@
 - fix: fix a small wording issue
 - docs: fix a small wording issue
 - docs: link the usage section
+- chore: fix a small wording issue
